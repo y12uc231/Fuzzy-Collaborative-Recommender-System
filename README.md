@@ -1,6 +1,6 @@
 # Fuzzy-Collaborative-Recommender-System
 
-This is a model of recommender system where I fuzzyfied the features and then used collaborative filtering to recommend movies to new users. 
+This is a model of recommender system in which features are fuzzyfied and then collaborative filtering is used to recommend movies to new users. 
 
 References :-
 
